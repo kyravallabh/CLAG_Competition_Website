@@ -30,5 +30,14 @@ background-color: #F9A7F6;
 #intro{
   text-align: center;
   align-items: center;
+}
 
+#clothing-list{
+  text-align: center;
+  margin-right: 500px;
+}
+
+#sc{
+  text-align: center;
+  margin-left: 500px;
 }
