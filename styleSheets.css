@@ -24,6 +24,11 @@ width: 25rem;
 margin-left: 450px;
 text-align: center;
 align-items: center;
-border-top: white dotted;
-background-color: #F078EC;
+border: white dotted;
+background-color: #F9A7F6;
+}
+#intro{
+  text-align: center;
+  align-items: center;
+
 }
